@@ -5,16 +5,16 @@
 
 📈 Pygrapher makes it easy to visualize your data with the following types of plots:
 
-Line Chart
-Bar Chart
-Area Chart
-Scatter Plot
-Box Plot
-Violin Plot
-Heatmap
-Histogram
-Pie Chart
-Contour
+- Line Chart
+- Bar Chart
+- Area Chart
+- Scatter Plot
+- Box Plot
+- Violin Plot
+- Heatmap
+- Histogram
+- Pie Chart
+- Contour
 
 👩‍💻 With Pygrapher, you don't need to be a data scientist to get insights from your data. Simply upload your data, choose a plot type, and start exploring!
 
