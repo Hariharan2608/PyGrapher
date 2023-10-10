@@ -16,7 +16,8 @@
 - Pie Chart
 - Contour
 
-![image](https://github.com/Hariharan2608/PyGrapher/assets/88303186/d1313680-2abb-4d06-9bc9-64ad57e40d80)
+![image](https://github.com/Hariharan2608/PyGrapher/assets/88303186/dcac6ad1-d777-4ce5-9760-4509586b2369)
+
 You can import the dataset from your local system or choose datasets from default datasets which is given in the application
 
 
