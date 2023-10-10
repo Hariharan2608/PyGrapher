@@ -1,3 +1,4 @@
+#importing libraries
 import streamlit as st
 import plotly_express as px
 import pandas as pd
@@ -12,7 +13,7 @@ st.set_page_config(
 
 import base64
 
-main_bg = "bg.jpg"
+main_bg = "images/bg.jpg"
 main_bg_ext = "jpg"
 st.write(
     f"""
@@ -39,7 +40,7 @@ st.sidebar.subheader("Visualization Settings")
 uploaded_file = st.sidebar.file_uploader(
                         label="Upload your CSV or Excel file.",
                          type=['csv', 'xlsx'])
-
+#for downloading new datasets
 url = 'https://archive.ics.uci.edu/ml/index.php'
                        
 if st.sidebar.button("UCI Datasets"):
@@ -48,7 +49,7 @@ if st.sidebar.button("UCI Datasets"):
 
 
 global df
-
+#for showcasing the datasets
 if uploaded_file is not None:
     print(uploaded_file)
     print("hello")
