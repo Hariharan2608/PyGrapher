@@ -18,5 +18,5 @@
 
 👩‍💻 With Pygrapher, you don't need to be a data scientist to get insights from your data. Simply upload your data, choose a plot type, and start exploring!
 
-🚀 Ready to get started? Head over to the Pygrapher website and try it out for yourself! https://hariharan2608-pygrapher-ex5-qgfw29.streamlit.app/
+🚀 Ready to get started? Head over to the Pygrapher website and try it out for yourself! [https://hariharan2608-pygrapher-ex5-qgfw29.streamlit.app/](https://pygrapher.streamlit.app/)https://pygrapher.streamlit.app/
 
