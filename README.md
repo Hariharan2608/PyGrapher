@@ -16,6 +16,12 @@
 - Pie Chart
 - Contour
 
+![image](https://github.com/Hariharan2608/PyGrapher/assets/88303186/d1313680-2abb-4d06-9bc9-64ad57e40d80)
+You can import the dataset from your local system or choose datasets from default datasets which is given in the application
+
+
+
+
 👩‍💻 With Pygrapher, you don't need to be a data scientist to get insights from your data. Simply upload your data, choose a plot type, and start exploring!
 
 🚀 Ready to get started? Head over to the Pygrapher website and try it out for yourself! [https://hariharan2608-pygrapher-ex5-qgfw29.streamlit.app/](https://pygrapher.streamlit.app/)https://pygrapher.streamlit.app/
