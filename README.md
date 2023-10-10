@@ -1,9 +1,11 @@
 # Pygrapher: Data Visualization and ML Classification
 ### Introduction
-📊 Pygrapher is a data visualization project built using Streamlit. With Pygrapher, you can plot 10 different types of graphs to visualize your data. It provides an intuitive interface that makes it easy to upload your data and start exploring.
+- 📊 Pygrapher is a data visualization project built using Streamlit. With Pygrapher, you can plot 10 different types of graphs to visualize your data.
+- It provides an intuitive interface that makes it easy to upload your data and start exploring.
+- 🤖 But that's not all! Pygrapher also includes an ML data classification code that you can use to classify your data. The code is built using scikit-learn, a popular machine learning library for Python.
+- With this feature, you can quickly analyze your data and gain insights into your data set.
 
-🤖 But that's not all! Pygrapher also includes an ML data classification code that you can use to classify your data. The code is built using scikit-learn, a popular machine learning library for Python. With this feature, you can quickly analyze your data and gain insights into your data set.
-
+### Type of charts
 📈 Pygrapher makes it easy to visualize your data with the following types of plots:
 
 - Line Chart
@@ -17,6 +19,7 @@
 - Pie Chart
 - Contour
 
+### Sample images
 ![image](https://github.com/Hariharan2608/PyGrapher/assets/88303186/dcac6ad1-d777-4ce5-9760-4509586b2369)
 
 You can import the dataset from your local system or choose datasets from default datasets which is given in the application
@@ -24,8 +27,9 @@ You can import the dataset from your local system or choose datasets from defaul
 ![image](https://github.com/Hariharan2608/PyGrapher/assets/88303186/303dcb39-a02f-4a6c-acd6-14f52d5688e4)
 This is the sample chart of iris dataset and you can also customize the context of the chart which is given in the side bars
 
-
-
+### Future Improvements
+ - We can also do the data preprocessing within the application
+ - Adding machine learning models for predictions
 
 👩‍💻 With Pygrapher, you don't need to be a data scientist to get insights from your data. Simply upload your data, choose a plot type, and start exploring!
 
