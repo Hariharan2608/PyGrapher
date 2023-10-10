@@ -13,6 +13,7 @@ st.set_page_config(
 
 import base64
 
+#background image
 main_bg = "images/bg.jpg"
 main_bg_ext = "jpg"
 st.write(
@@ -65,7 +66,7 @@ if uploaded_file is not None:
 st.write("If you don't know about the app or the graphs please select the description given below")
 if st.button("Description"):
     subprocess.Popen(["streamlit", "run", "new1.py"])
-
+#adding default datasets for users
 st.sidebar.write("or")
 st.sidebar.write("Choose some default datasets")
 
@@ -139,7 +140,7 @@ if default_dataset == 'Students Test Performance Dataset':
         
 
 st.subheader("Data")
-
+#separating numeric and non-numeric columns
 global numeric_columns
 global non_numeric_columns
 try:
@@ -160,7 +161,7 @@ chart_select = st.sidebar.selectbox(
 
 st.subheader((chart_select))
 
-
+#10 different charts
 if chart_select == 'Scatterplots':
     st.sidebar.subheader("Scatterplot Settings")
     try:
