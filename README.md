@@ -20,6 +20,9 @@
 
 You can import the dataset from your local system or choose datasets from default datasets which is given in the application
 
+![image](https://github.com/Hariharan2608/PyGrapher/assets/88303186/303dcb39-a02f-4a6c-acd6-14f52d5688e4)
+This is the sample chart of iris dataset and you can also customize the context of the chart which is given in the side bars
+
 
 
 
