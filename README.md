@@ -31,7 +31,8 @@ This is the sample chart of iris dataset and you can also customize the context 
  - We can also do the data preprocessing within the application
  - Adding machine learning models for predictions
 
+### Conclusion
 👩‍💻 With Pygrapher, you don't need to be a data scientist to get insights from your data. Simply upload your data, choose a plot type, and start exploring!
 
-🚀 Ready to get started? Head over to the Pygrapher website and try it out for yourself! [https://hariharan2608-pygrapher-ex5-qgfw29.streamlit.app/](https://pygrapher.streamlit.app/)https://pygrapher.streamlit.app/
+🚀 Ready to get started? Head over to the Pygrapher website and try it out for yourself! (https://pygrapher.streamlit.app/)https://pygrapher.streamlit.app/
 
